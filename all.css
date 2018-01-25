@@ -1,0 +1,17 @@
+body
+{
+/*background-color: aqua;*/
+}
+#DivMin{
+    height:200px;
+    width: 200px;
+    background-color: bisque;
+    position: relative;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+#U1{
+    margin-top: 50px;
+}
